@@ -14,7 +14,7 @@ public class Main {
 //            System.out.println((int)tempEncode[i]);
             tempEncode[i] = (char)(255 - (int)tempEncode[i]);
 //            System.out.println("po inwersji bitów: " + tempEncode[i]);
-
+//zmiana
         }
         System.out.println("Tekst zaszyfrowany: "+ tempEncode);
         return tempEncode;
